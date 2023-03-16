@@ -1,3 +1,0 @@
-/home/medobob/CLionProjects/snake_conquer/cmake-build-debug/CMakeFiles/snake_conquer.dir
-/home/medobob/CLionProjects/snake_conquer/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/medobob/CLionProjects/snake_conquer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
